@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pygame.Rect" />
+          <option value="pygame.init" />
+          <option value="pygame.quit" />
+          <option value="pygame.QUIT" />
+          <option value="pygame.KEYDOWN" />
+          <option value="pygame.k_up" />
+          <option value="pygame.K_UP" />
+          <option value="pygame.KEYUP" />
+          <option value="plane_main.PlaneGame.clock" />
+          <option value="pygame.USEREVENT" />
+          <option value="self.enemy_group" />
+          <option value="list.centerx" />
+          <option value="pygame.K_RIGHT" />
+          <option value="pygame.K_LEFT" />
+          <option value="pygame.K_DOWN" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
